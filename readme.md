@@ -7,4 +7,3 @@
 --------
 ##### Paper Accepted at WACV 2025 Workshop SynRDinBAS
 
-repository to be updated soon
