@@ -6,7 +6,7 @@
 
 --------
 
-# Citation
+## Citation
 ```
 @InProceedings{Tandon_2025_WACV,
     author    = {Tandon, Abhishek and Sharma, Geetanjali and Jaswal, Gaurav and Nigam, Aditya and Ramachandra, Raghavendra},
