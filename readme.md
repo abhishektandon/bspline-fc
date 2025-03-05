@@ -5,5 +5,16 @@
 ##### <sup>1</sup>IIT Mandi, India, <sup>2</sup>TIH, IIT Mandi, India, <sup>3</sup>NTNU, Norway
 
 --------
-##### Paper Accepted at WACV 2025 Workshop SynRDinBAS
+
+# Citation
+```
+@InProceedings{Tandon_2025_WACV,
+    author    = {Tandon, Abhishek and Sharma, Geetanjali and Jaswal, Gaurav and Nigam, Aditya and Ramachandra, Raghavendra},
+    title     = {Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {February},
+    year      = {2025},
+    pages     = {1412-1420}
+}
+```
 
