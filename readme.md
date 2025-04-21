@@ -10,7 +10,7 @@
 python render.py
 
 ```
-Add Visual Prompt Augmentations:
+Add Visual Prompt Diversity (VPD):
 
 ```
 python augs.py
