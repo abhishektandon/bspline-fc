@@ -5,9 +5,15 @@
 ##### <sup>1</sup>IIT Mandi, India, <sup>2</sup>TIH, IIT Mandi, India, <sup>3</sup>NTNU, Norway
 
 --------
-
+## Sample
 ```
 python render.py
+
+```
+Add Visual Prompt Augmentations:
+
+```
+python augs.py
 ```
 
 ## Citation
