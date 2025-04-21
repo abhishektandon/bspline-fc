@@ -7,7 +7,7 @@
 --------
 ## Render Creases
 
-Render Raw Samples (1 image per ID):
+Render Raw Samples (1 Image per ID):
 ```
 python render.py
 ```
