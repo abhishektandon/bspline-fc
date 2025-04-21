@@ -6,10 +6,12 @@
 
 --------
 ## Sample
+
+Raw Samples (1 image per ID)
 ```
 python render.py
 ```
-Add Visual Prompt Diversity (VPD):
+Add Visual Prompt Diversity (VPD) to Raw samples:
 
 ```
 python augs.py
@@ -17,12 +19,15 @@ python augs.py
 
 ## Edge2FC
 
-Extract Edge Maps
+Extract Edge Maps:
 
 ```
 python ./utils/extract_edges.py
 ```
 
+Edge2FC Model:
+
+Training/Samping: 
 ```
 ./edge2fc/shell/scripts.sh
 ```
