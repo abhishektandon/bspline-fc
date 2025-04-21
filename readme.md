@@ -11,7 +11,7 @@ Render Raw Samples (1 image per ID):
 ```
 python render.py
 ```
-Add Visual Prompt Diversity (VPD) to Raw samples:
+Add Visual Prompt Diversity (VPD) to raw samples:
 
 ```
 python augs.py
