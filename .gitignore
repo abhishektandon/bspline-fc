@@ -1,0 +1,10 @@
+!.gitignore
+
+logs/
+results/
+data/
+
+*.err
+*.txt
+
+__pycache__
