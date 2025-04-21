@@ -25,8 +25,6 @@ Extract Edge Maps:
 python ./utils/extract_edges.py
 ```
 
-Edge2FC Model:
-
 Training/Sampling: 
 ```
 ./edge2fc/shell/scripts.sh
