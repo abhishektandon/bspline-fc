@@ -17,7 +17,7 @@ Add Visual Prompt Diversity (VPD) to Raw samples:
 python augs.py
 ```
 
-## Edge2FC
+## Edge2FC Model
 
 Extract Edge Maps:
 
