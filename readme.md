@@ -8,12 +8,23 @@
 ## Sample
 ```
 python render.py
-
 ```
 Add Visual Prompt Diversity (VPD):
 
 ```
 python augs.py
+```
+
+## Edge2FC
+
+Extract Edge Maps
+
+```
+python ./utils/extract_edges.py
+```
+
+```
+./edge2fc/shell/scripts.sh
 ```
 
 ## Citation
