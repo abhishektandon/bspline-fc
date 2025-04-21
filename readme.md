@@ -8,6 +8,7 @@
 
 ```
 python render.py
+python augs.py
 ```
 
 ## Citation
