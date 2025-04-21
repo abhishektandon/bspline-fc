@@ -6,6 +6,14 @@
 
 --------
 
+## Render 1 image per ID
+
+```python render.py```
+
+## Add Visual Prompt Diversity (VPD)
+
+```python augs.py```
+
 ## Citation
 ```
 @InProceedings{Tandon_2025_WACV,
