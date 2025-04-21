@@ -5,9 +5,9 @@
 ##### <sup>1</sup>IIT Mandi, India, <sup>2</sup>TIH, IIT Mandi, India, <sup>3</sup>NTNU, Norway
 
 --------
-## Sample
+## Render Creases
 
-Raw Samples (1 image per ID)
+Render Raw Samples (1 image per ID):
 ```
 python render.py
 ```
@@ -27,7 +27,7 @@ python ./utils/extract_edges.py
 
 Edge2FC Model:
 
-Training/Samping: 
+Training/Sampling: 
 ```
 ./edge2fc/shell/scripts.sh
 ```
