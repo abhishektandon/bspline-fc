@@ -43,9 +43,9 @@ Training/Sampling:
 |B-Spline-VPD| [Link](https://huggingface.co/datasets/abhi-td/bspline_fc/blob/main/bspline_vpd.zip) |
 |DiffEdges-VPD| [Link](https://huggingface.co/datasets/abhi-td/bspline_fc/blob/main/diffedges_vpd.zip) |
 
-## Pretrained Model
+## Pretrained Models
 
-Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD``: [🤗]()
+Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database via the proposed training curriculum: [Link]()
 
 ## Citation
 ```
