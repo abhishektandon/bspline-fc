@@ -45,7 +45,7 @@ Training/Sampling:
 
 ## Pretrained Models
 
-Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database via the proposed training curriculum: [Link]()
+Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database: [Link]()
 
 ## Citation
 ```
