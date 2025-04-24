@@ -40,7 +40,7 @@ Training/Sampling:
 
 | Database | 🤗 |
 |----------|:----------:|
-|B-Spline-VPD| [Link](https://huggingface.co/datasets/abhi-td/bspline_fc/blob/main/bspline_vpd.zip) |
+|BSpline-VPD| [Link](https://huggingface.co/datasets/abhi-td/bspline_fc/blob/main/bspline_vpd.zip) |
 |DiffEdges-VPD| [Link](https://huggingface.co/datasets/abhi-td/bspline_fc/blob/main/diffedges_vpd.zip) |
 
 ## Pretrained Models
