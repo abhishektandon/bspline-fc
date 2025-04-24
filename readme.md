@@ -45,7 +45,8 @@ Training/Sampling:
 
 ## Pretrained Models
 
-Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database: [Link]()
+* [Edge2FC Generative Model]()
+* Best-Performing FHCVS (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database: [Link]()
 
 ## Citation
 ```
