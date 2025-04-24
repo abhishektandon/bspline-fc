@@ -45,8 +45,8 @@ Training/Sampling:
 
 ## Pretrained Models
 
-* [Edge2FC Generative Model]()
-* Best-Performing [FHCVS]() (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database.
+* [Edge2FC Generative Model](https://huggingface.co/abhi-td/bspline_fc/blob/main/recognition/edge2fc/)
+* Best-Performing [FHCVS](https://huggingface.co/abhi-td/bspline_fc/blob/main/recognition/fv1_adaface_finetune_bspline_vpd_and_diffusion_edges_vpdiv_no_shuffle_and_real_adaface_curriculum_1.pth) (in terms of TMR) trained on ``Real + (DiffEdges + BSpline)-VPD`` database.
 
 ## Citation
 ```
