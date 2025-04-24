@@ -6,7 +6,7 @@
 
 --------
 
-![main-figure](./imgs/bspline_fc_main_fig.png)
+<img src="./imgs/bspline_fc_main_fig.png" alt="main-figure" width="1000"/>
 
 > We propose a trait-specific image generation method that models forehead creases geometrically using B-spline and Bézier curves. This approach ensures the realistic generation of both principal creases and non-prominent crease patterns effectively constructing detailed and authentic forehead-crease images. These geometrically rendered images serve as visual prompts for a diffusion-based Edge-to-Image translation model which generates corresponding mated samples. The resulting novel synthetic identities are then used to train a forehead-crease verification network. To enhance intra-subject diversity in the generated samples we employ two strategies: (a) perturbing the control points of B-splines under defined constraints to maintain label consistency and (b) applying image-level augmentations to the geometric visual prompts such as dropout and elastic transformations specifically tailored to crease patterns. By integrating the proposed synthetic dataset with real-world data our method significantly improves the performance of forehead-crease verification systems under a cross-database verification protocol.
 
