@@ -5,8 +5,8 @@ from torch.utils.data import Dataset
 import torchvision.transforms as transforms
 
 from Register import Registers
-from datasets.base import ImagePathDataset, ImagePathDatasetWithContext
-from datasets.utils import get_image_paths_from_dir
+from datasets_custom.base import ImagePathDataset, ImagePathDatasetWithContext
+from datasets_custom.utils import get_image_paths_from_dir
 from PIL import Image
 import cv2
 import os

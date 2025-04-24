@@ -16,7 +16,7 @@ torch.manual_seed(42)
 ia.seed(0)
 
 
-path = './data/bspline_1_pID/train' # initial data to which augs are added (1 image per ID): run render.py with samples_per_id=1 to obtain this data
+path = './data/bspline_fc_1_pID/train' # initial data to which augs are added (1 image per ID): run render.py with samples_per_id=1 to obtain this data
 dest = './data/bspline_vpd/train/' # path to dir where raw visual prompts data is saved
 
 os.makedirs(dest, exist_ok=True)
